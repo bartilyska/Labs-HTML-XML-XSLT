@@ -1,0 +1,30 @@
+#formularz
+{
+	background-color:lightblue;
+	font-size:20px;
+}
+html, body {
+	background-color: #324964;
+	width: 100%;
+}
+nav {	
+	width:20%; 
+	float:right; 
+	padding:7%; 
+	overflow:hidden; 
+}
+h1
+{
+	color:orange;
+	text-align:center;
+	padding:40px;
+	font-size:35px;
+}
+h2
+{
+	color:lime;
+	text-align:center;
+}
+nav ul li a.active {
+ text-shadow: 1px 1px #121219;
+}
